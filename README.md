@@ -1,8 +1,9 @@
 Repositório de estudo acompanhando o artigo:
-[https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/] (build-a-realtime-chat-app-with-react-express-socketio-and-harperdb)
+
+[https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/](build-a-realtime-chat-app-with-react-express-socketio-and-harperdb)
+
 
 Mudei um pouco do parte do FrontEnd usando NextJS afim de melhorar meus conhecimentos em cima do framework.
-
 Também usei TS, pois prefiro para garantir uma melhor estruturação dos dados, no entanto sei que é possivel melhorar muito a estruturação das tipagens.
 
 Para executar ambiente Dev:
